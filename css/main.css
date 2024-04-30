@@ -5479,7 +5479,7 @@ button {
 }
 
 .no-touch .button--expandable:hover {
-    width: 100px
+    width: 300px
 }
 
 .button--no-border {
